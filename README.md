@@ -1,4 +1,4 @@
-##PAYLOAD
+## PAYLOAD
 PAYLOAD is a next-generation asset management and distribution system designed to fundamentally resolve the security vulnerabilities and performance limitations inherent in Unity's standard AssetBundle system and other legacy formats.
 Beyond being a mere plugin, it provides a comprehensive infrastructure that addresses the dual challenges faced by commercial-grade titles: the absolute protection of intellectual property and extreme dynamic performance.
 
